@@ -21,5 +21,5 @@ export function useFetch(fetchFn, initialValue, customErrorMsg) {
     fetchData();
   }, [fetchFn, customErrorMsg]);
 
-  return { fetchedData, isFetching, error }
+  return { fetchedData, setFetchedData, isFetching, error }
 }
