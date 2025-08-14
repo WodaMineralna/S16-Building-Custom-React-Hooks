@@ -2,7 +2,7 @@
 
 Practice code for Section 16 - Building Custom React Hooks, part of the course "React - The Complete Guide (incl. Redux)" by Maximilian Schwarzmüller.
 
-This project covers
+This project covers:
 - Extract reusable logic into custom hooks
 - Composition patterns for hooks
   
@@ -13,7 +13,6 @@ Implemented as part of a guided course project, with additional features and cus
 - React
 - JavaScript (ES6+)
 - Build tool - Vite
-- Custom hooks
 ## How to Run
 
 ```bash
