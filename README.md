@@ -5,8 +5,9 @@ Practice code for Section 16 - Building Custom React Hooks, part of the course "
 This project covers
 - Extract reusable logic into custom hooks
 - Composition patterns for hooks
-Project type
-- Based on a guided project
+  
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
